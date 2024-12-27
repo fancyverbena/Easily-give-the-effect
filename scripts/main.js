@@ -1,4 +1,5 @@
 import { world } from '@minecraft/server';
+import { ActionFormData } from '@minecraft/server-ui'; // これを追加
 import { showBuffMenu } from './buffMenu/buffMenu.js';
 import { showDebuffMenu } from './debuffMenu/debuffMenu.js';
 import { showClearMenu } from './clearMenu/clearMenu.js';
